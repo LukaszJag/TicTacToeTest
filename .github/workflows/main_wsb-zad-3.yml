@@ -51,4 +51,4 @@ jobs:
           app-name: 'WSB-Zad-3'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E6797094D2EE43EBBDB4410445759941 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F82523641764A7A9B154238BF0D5708 }}
